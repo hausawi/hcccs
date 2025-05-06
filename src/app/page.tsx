@@ -1,6 +1,8 @@
 const Homepage = () => {
   return (
-    <div className=''> go to http://localhost:3000/dashboard/admin to see the change
+    <div className='flex item-center justify-center w'>  <h3 className="text-blue-300">
+      <br/><br/><br/>go to to see the change
+      https://hausawi.github.io/hcccs/dashboard/admin</h3> 
       </div>
   )
 }
