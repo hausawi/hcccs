@@ -14,15 +14,14 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000/hausawi. github.io/hcccs/dashboard/admin]
+Open [(http://localhost:3000/hausawi. github.io/hcccs/dashboard/admin)]
 to navigate the app online
 (http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can follow the changes from time to time to learn more about the project with every Commit or you start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Learn More
 
 To learn more about Full-stack Dev, take a look at the following resources:
 
-- [@Hausawi_Dev Youtube Channel]-
-- [(https://www.youtube.com/@Hausawi_dev)]
+(@Hausawi_Dev Youtube Channel) (https://www.youtube.com/@Hausawi_dev)
