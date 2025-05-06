@@ -1,4 +1,4 @@
-# HCCCS School Management Platform 
+# HCCCS Instructing Platform 
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open (http://localhost:3000/hausawi. github.io/hcccs/dashboard/admin)
+Open (http://localhost:3000/hausawi.github.io/hcccs/dashboard/admin)
 to navigate the app online
 (http://localhost:3000) with your browser to see the result.
 
