@@ -1,5 +1,6 @@
-# HCCCS Instructing Platform 
 
+# HCCCS Instructing Platform
+## Hausa Co-ordination Central Council in Sudan
 ## Getting Started
 
 First, run the development server:
@@ -18,10 +19,15 @@ Open(https://hausawi.github.io/hcccs/dashboard/admin))
 to navigate the app online
 (http://localhost:3000) with your browser to see the result.
 
-You can follow the changes from time to time to learn more about the project with every Commit or you start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+## To Review The Published App on Github Pages
+
+Open [https://hausawi.github/io/hcccs/dashboard/admin](https://hausawi.github/io/hcccs/dashboard/admin) with your browser to see the result.
 
 ## Learn More
 
 To learn more about Full-stack Dev, take a look at the following resources:
 
-(@Hausawi_Dev Youtube Channel) (https://www.youtube.com/@Hausawi_dev)
+
+- [Hmo' Dev Youtube Channel](https://youtube.com/Hausawi_Dev) 
+- [Next.js](https://nextjs.org/learn)
